@@ -3,4 +3,6 @@ Connect3 game in Python designed to be two-player or against computer AI based o
 
 To run Player vs AI game:
 
-`Connect-3$ python3 main.py human minimax`
+```sh
+Connect-3$ python3 main.py human minimax
+```
